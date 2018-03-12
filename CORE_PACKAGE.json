@@ -1,0 +1,5 @@
+{
+  "name": "pid_ie",
+  "description": "Implicit Euler PID with cascade architecture saturation control", 
+  "provider": "core"
+} 
